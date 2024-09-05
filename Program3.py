@@ -9,7 +9,7 @@
 #  - java (veteran)
 #  - programming (semiprofessional)
 #  
-# I am looking for a job with a salary of 2000-3000 euros per month
+# I am looking for a job with a salary of 2000-3000 dollars per month
 
 name = "Tim Tester"
 age = 20
@@ -27,7 +27,7 @@ print("my skills are")
 print("- ", skill1, " (", level1, ")")
 print("- ", skill2, " (", level2, ")")
 print("- ", skill3, " (", level3, " )")
-print("I am looking for a job with a salary of", lower, "-", upper, "euros per month")
+print("I am looking for a job with a salary of", lower, "-", upper, "dollars per month")
 
 
 
